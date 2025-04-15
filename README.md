@@ -1,5 +1,6 @@
 # proyecto_3
- **Data analyst_ sprint 3, proyecto 3**
+ 
+## **Data analyst: proyecto 3 EDA y prueba de hipótesis preferencias musicales**
 
 ## **Descripción del proyecto**
 
