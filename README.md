@@ -1,8 +1,6 @@
-# proyecto_3
- 
-## **Data analyst: proyecto 3 EDA y prueba de hipótesis preferencias musicales**
+# **Proyecto_3_preferencias_musicales** 
 
-## **Descripción del proyecto**
+## :bookmark_tabs: **Descripción del proyecto**
 
 Como analista de datos, tu trabajo consiste en analizar datos para extraer información valiosa y tomar decisiones basadas en ellos. Esto implica diferentes etapas, como la descripción general de los datos, el preprocesamiento y la prueba de hipótesis.
 
@@ -10,26 +8,23 @@ Siempre que investigamos, necesitamos formular hipótesis que después podamos p
 
 En este proyecto, compararás las preferencias musicales de las ciudades de Springfield y Shelbyville. Estudiarás datos reales de transmisión de música online para probar la hipótesis a continuación y comparar el comportamiento de los usuarios y las usuarias de estas dos ciudades.
 
-## **Objetivo**
+## :dart: **Objetivo**
 
 Prueba la hipótesis:
 
 1. La actividad de los usuarios y las usuarias difiere según el día de la semana y dependiendo de la ciudad.
 
-## **Etapas**
+## :clipboard: **Etapas**
 
-Los datos del comportamiento del usuario se almacenan en el archivo `/datasets/music_project_en.csv`. No hay ninguna información sobre la calidad de los datos, así que necesitarás examinarlos antes de probar la hipótesis.
-
-Primero, evaluarás la calidad de los datos y verás si los problemas son significativos. Entonces, durante el preprocesamiento de datos, tomarás en cuenta los problemas más críticos.
-
-El proyecto consistirá en tres etapas:
  1. Descripción de los datos.
  2. Preprocesamiento de datos.
  3. Prueba de hipótesis.
  4. Conclusiones
 
- ## **Librería utilizada**
+## :computer: **Librería utilizada**
 
- * pandas
+:diamond_shape_with_a_dot_inside: pandas
 
-El archivo se encuentra dentro del directorio "notebooks".
+## **Notas adicionales**
+
+:diamond_shape_with_a_dot_inside: Link Jupyter Notebook: https://github.com/RogerOlvera/proyecto_3_preferencias_musicales/blob/main/notebooks/proyecto_sprint_3_.ipynb
